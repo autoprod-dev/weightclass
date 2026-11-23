@@ -1,15 +1,15 @@
 [
   {
-    "id": "snap-meal-soon",
+    "id": "snap-meal",
     "date": "2026-11-24",
     "roles": [
       "coach",
       "client"
     ],
-    "title": "Coming soon: snap a meal photo",
+    "title": "Snap a meal photo",
     "body": {
-      "coach": "Coming soon: snap a photo of a meal and we'll estimate the macros. You'll see it on the client's Food log, and they will too in their Food tab. Until then, log food as usual.",
-      "client": "Coming soon: snap a photo of your meal and we'll estimate the macros. Until then, you can still log food as usual in the Food tab."
+      "coach": "You and your clients can now snap a photo of a meal and we'll estimate the foods and macros. Check the amounts, then save — it goes on the shared food log.",
+      "client": "You can now snap a photo of your meal and we'll estimate the foods and macros. Check the amounts, then save — it goes on your food log for you and your coach."
     }
   },
   {
