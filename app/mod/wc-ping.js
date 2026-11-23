@@ -1,0 +1,1 @@
+window.WC_MOD_ping={ok:1,name:"ping"};
