@@ -1,0 +1,141 @@
+[
+  {
+    "id": "snap-meal-soon",
+    "date": "2026-11-24",
+    "roles": [
+      "coach",
+      "client"
+    ],
+    "title": "Coming soon: snap a meal photo",
+    "body": {
+      "coach": "Coming soon: snap a photo of a meal and we'll estimate the macros. You'll see it on the client's Food log, and they will too in their Food tab. Until then, log food as usual.",
+      "client": "Coming soon: snap a photo of your meal and we'll estimate the macros. Until then, you can still log food as usual in the Food tab."
+    }
+  },
+  {
+    "id": "rate-the-app",
+    "date": "2026-11-24",
+    "roles": [
+      "coach",
+      "client"
+    ],
+    "title": "Rate the app",
+    "body": "You'll find Rate the app in Settings. It's one to five stars and an optional note, and it only appears as a prompt on a calm open – never in the middle of a workout."
+  },
+  {
+    "id": "exercise-names",
+    "date": "2026-11-24",
+    "roles": [
+      "coach",
+      "client"
+    ],
+    "title": "Exercise names in Progress",
+    "body": "Exercise names now stay on your past records in Progress, including ones that were typed in rather than picked from the list."
+  },
+  {
+    "id": "weekly-reel",
+    "date": "2026-11-23",
+    "roles": [
+      "coach",
+      "client"
+    ],
+    "title": "Weekly progress reel",
+    "body": "On Progress, tap Make reel for a short recap of this week — sessions, weight change, PBs and up to two photos. It's made on your phone, so you can share or save it without uploading."
+  },
+  {
+    "id": "voice-cues",
+    "date": "2026-11-23",
+    "roles": [
+      "coach",
+      "client"
+    ],
+    "title": "Coach voice cues",
+    "body": {
+      "coach": "You can record a short voice cue (up to 30 seconds) on an exercise when you edit a client's routine. They'll hear it in their workout.",
+      "client": "If your coach leaves a voice cue on an exercise, tap Coach cue in your workout to hear it."
+    }
+  },
+  {
+    "id": "plateau-alerts",
+    "date": "2026-11-23",
+    "roles": [
+      "coach"
+    ],
+    "title": "Plateau alerts",
+    "body": "You'll get a card when a client's progress stalls, with a suggested tweak to try."
+  },
+  {
+    "id": "team-challenges",
+    "date": "2026-11-23",
+    "roles": [
+      "coach",
+      "client"
+    ],
+    "title": "Team challenges",
+    "body": {
+      "coach": "You can set up a steps, streak or workouts challenge between clients. Everyone sees the same live leaderboard.",
+      "client": "If your coach starts a team challenge, you'll see the live leaderboard in your app."
+    }
+  },
+  {
+    "id": "load-light",
+    "date": "2026-11-23",
+    "roles": [
+      "coach",
+      "client"
+    ],
+    "title": "Load-light and offline",
+    "body": "The app keeps working on slow or patchy data. Anything you log while offline is sent when you're back, and you can turn Load-light on in Settings."
+  },
+  {
+    "id": "coach-logs",
+    "date": "2026-11-23",
+    "roles": [
+      "coach",
+      "client"
+    ],
+    "title": "From your coach",
+    "body": {
+      "coach": "When you log a workout, food or progress for a client, they now see it in their app, marked From your coach.",
+      "client": "When your coach logs a workout, food or progress for you, it shows in your app as From your coach."
+    }
+  },
+  {
+    "id": "rewards-track",
+    "date": "2026-11-23",
+    "roles": [
+      "client"
+    ],
+    "title": "Today's track and rewards",
+    "body": "Today's track moves as you tick off your daily goals, and you can earn rewards for staying consistent."
+  },
+  {
+    "id": "realtime-chat",
+    "date": "2026-11-23",
+    "roles": [
+      "coach",
+      "client"
+    ],
+    "title": "Chat, photos and voice notes",
+    "body": "Chat now updates as messages arrive, and you can send photos and voice notes."
+  },
+  {
+    "id": "send-feedback",
+    "date": "2026-11-23",
+    "roles": [
+      "coach",
+      "client"
+    ],
+    "title": "Send feedback",
+    "body": "There's a Send feedback button in the app if you need to report an issue, raise a concern or suggest an idea."
+  },
+  {
+    "id": "photo-gallery",
+    "date": "2026-11-23",
+    "roles": [
+      "client"
+    ],
+    "title": "Progress photos from your gallery",
+    "body": "When you add a progress photo, you can take a new one or upload one from your gallery."
+  }
+]
