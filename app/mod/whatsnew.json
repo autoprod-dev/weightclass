@@ -1,5 +1,18 @@
 [
   {
+    "id": "pay-bank-transfer",
+    "date": "2026-11-25",
+    "roles": [
+      "coach",
+      "client"
+    ],
+    "title": "Pay by bank transfer",
+    "body": {
+      "coach": "You can now add bank details next to GCash and Maya in Settings. Clients see them on Pay your coach, upload a receipt, and you mark it paid as usual. No money moves through Autoprod.",
+      "client": "If your coach has added bank details, they appear on Pay your coach next to GCash and Maya. Upload a receipt after you transfer. No money moves through Autoprod."
+    }
+  },
+  {
     "id": "pay-your-coach",
     "date": "2026-11-25",
     "roles": [
