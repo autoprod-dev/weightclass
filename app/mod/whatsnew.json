@@ -1,5 +1,23 @@
 [
   {
+    "id": "snap-meal-coach-self",
+    "date": "2026-11-24",
+    "roles": [
+      "coach"
+    ],
+    "title": "Log your own meals",
+    "body": "On Home, tap My food to open your own food log. Snap meal is there next to Search food and Barcode, separate from your clients."
+  },
+  {
+    "id": "sending-bar-sendable",
+    "date": "2026-11-24",
+    "roles": [
+      "coach"
+    ],
+    "title": "Sending bar only counts real items",
+    "body": "The sending bar now only counts logs that can actually be sent to a client. Demo data no longer leaves it stuck on screen."
+  },
+  {
     "id": "snap-meal",
     "date": "2026-11-24",
     "roles": [
