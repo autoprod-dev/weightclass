@@ -1,4 +1,5 @@
 WeightClass HQ landing photographs and illustrations. Created for Autoprod, 2026.
 hero.webp / hero-sm.webp, mid.webp and cta.webp are original images made for this product.
-scene.svg, scene-sm.svg and plate.svg are original Autoprod illustrations (stylised figures, no likenesses).
+The landing scene (client and coach phones) is an original Autoprod HTML/CSS illustration, with no likenesses and no stock people.
+plate.svg is an original Autoprod illustration.
 No third-party stock licence required. Free to use as part of WeightClass HQ.
