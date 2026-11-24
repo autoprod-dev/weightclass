@@ -1,5 +1,27 @@
 [
   {
+    "id": "pay-your-coach",
+    "date": "2026-11-25",
+    "roles": [
+      "coach",
+      "client"
+    ],
+    "title": "Pay your coach",
+    "body": {
+      "coach": "Clients can now pay you by GCash or Maya in the app, then upload a receipt for you to mark paid or not received. Set your details and a default fee in Settings. Receipt photos stay private. No money moves through Autoprod.",
+      "client": "Pay your coach has a clearer home in the app. Pay by GCash or Maya using your coach's details, upload a receipt, and you'll see when it's marked paid. No money moves through Autoprod."
+    }
+  },
+  {
+    "id": "statement-autoprod",
+    "date": "2026-11-25",
+    "roles": [
+      "coach"
+    ],
+    "title": "How the plan shows on your bank statement",
+    "body": "Your WeightClass HQ plan charge appears on your bank statement as LINK.COM* AUTOPROD. You'll also see this note on Your plan."
+  },
+  {
     "id": "snap-meal-coach-self",
     "date": "2026-11-24",
     "roles": [
