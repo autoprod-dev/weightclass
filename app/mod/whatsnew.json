@@ -1,5 +1,18 @@
 [
   {
+    "id": "coach-brand-kit",
+    "date": "2026-11-25",
+    "roles": [
+      "coach",
+      "client"
+    ],
+    "title": "Coach Brand Kit (Growth)",
+    "body": {
+      "coach": "Growth, Pro and Studio (and complimentary full-access accounts) can now publish a public coach profile, apply a logo and brand colour to the client app, and share a transformations wall after each client agrees. Starter coaches see a locked preview and can unlock with Growth. Autoprod Admin can add a verified-coach badge after certifications are uploaded.",
+      "client": "If your coach has set a logo or brand colour, you'll see it in the app header and on the welcome screen. You can choose whether a before-and-after photo appears on their public profile \u2014 it's off until you agree, no name is shown, and you can turn it off any time."
+    }
+  },
+  {
     "id": "pay-bank-transfer",
     "date": "2026-11-25",
     "roles": [
@@ -61,8 +74,8 @@
     ],
     "title": "Snap a meal photo",
     "body": {
-      "coach": "You and your clients can now snap a photo of a meal and we'll estimate the foods and macros. Check the amounts, then save — it goes on the shared food log.",
-      "client": "You can now snap a photo of your meal and we'll estimate the foods and macros. Check the amounts, then save — it goes on your food log for you and your coach."
+      "coach": "You and your clients can now snap a photo of a meal and we'll estimate the foods and macros. Check the amounts, then save \u2014 it goes on the shared food log.",
+      "client": "You can now snap a photo of your meal and we'll estimate the foods and macros. Check the amounts, then save \u2014 it goes on your food log for you and your coach."
     }
   },
   {
@@ -73,7 +86,7 @@
       "client"
     ],
     "title": "Rate the app",
-    "body": "You'll find Rate the app in Settings. It's one to five stars and an optional note, and it only appears as a prompt on a calm open – never in the middle of a workout."
+    "body": "You'll find Rate the app in Settings. It's one to five stars and an optional note, and it only appears as a prompt on a calm open \u2013 never in the middle of a workout."
   },
   {
     "id": "exercise-names",
@@ -93,7 +106,7 @@
       "client"
     ],
     "title": "Weekly progress reel",
-    "body": "On Progress, tap Make reel for a short recap of this week — sessions, weight change, PBs and up to two photos. It's made on your phone, so you can share or save it without uploading."
+    "body": "On Progress, tap Make reel for a short recap of this week \u2014 sessions, weight change, PBs and up to two photos. It's made on your phone, so you can share or save it without uploading."
   },
   {
     "id": "voice-cues",
