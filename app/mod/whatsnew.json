@@ -1,5 +1,18 @@
 [
   {
+    "id": "brand-kit-polish",
+    "date": "2026-11-25",
+    "roles": [
+      "coach",
+      "client"
+    ],
+    "title": "Brand Kit polish",
+    "body": {
+      "coach": "The studio leaderboard now fills in after it loads, Brand Kit settings won’t overwrite a saved profile if the card was still blank, and a few booking, certification, and payment-receipt details are tidier — including Book me text that stays readable on a dark brand colour, and Mark paid refusing a zero amount.",
+      "client": "Share cards, the review stars, and Pay your coach are a little easier to use on a phone. Bank transfer references can include letters, and a receipt stays on screen if sending it doesn’t go through."
+    }
+  },
+  {
     "id": "coach-brand-kit-studio",
     "date": "2026-11-25",
     "roles": [
