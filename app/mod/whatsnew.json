@@ -1,5 +1,18 @@
 [
   {
+    "id": "coach-brand-kit-studio",
+    "date": "2026-11-25",
+    "roles": [
+      "coach",
+      "client"
+    ],
+    "title": "Coach Brand Kit (Studio)",
+    "body": {
+      "coach": "Studio (and complimentary full-access accounts) can now publish a studio page that lists coaches under one gym brand, let clients add a home-screen app with your name and logo, run a studio leaderboard next to team challenges, and optionally hide “Powered by WeightClass”. Pro coaches see a locked preview and can unlock with Studio.",
+      "client": "If your coach is on Studio, you may see a studio leaderboard of first names and last-7-days workouts, and if you add the app to your home screen it can use their studio name and logo. “Powered by WeightClass” stays unless they have chosen to hide it."
+    }
+  },
+  {
     "id": "coach-brand-kit-pro",
     "date": "2026-11-25",
     "roles": [
