@@ -242,5 +242,18 @@
     ],
     "title": "Progress photos from your gallery",
     "body": "When you add a progress photo, you can take a new one or upload one from your gallery."
+  },
+  {
+    "id": "photo-auto-share-coach",
+    "date": "2026-11-27",
+    "roles": [
+      "coach",
+      "client"
+    ],
+    "title": "Progress photos go to your coach",
+    "body": {
+      "coach": "When a client adds a new progress photo, it now appears on their Photos tab automatically. Older photos still on their phone stay private until they tap Share with coach.",
+      "client": "New progress photos are shared with your coach automatically — your coach only, never other clients. Photos already on this phone stay private until you tap Share with coach."
+    }
   }
 ]
