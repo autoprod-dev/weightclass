@@ -268,5 +268,18 @@
       "coach": "New progress photos from the client app are sent in a sharper size (about 1600 pixels on the long edge) so they stay clear on a phone and on the Photos tab. Photos already on your dashboard stay as they are — ask the client to re-upload, or tap Share with coach, for a sharper copy. Other clients never see them.",
       "client": "New progress photos are sent to your coach in a sharper size — your coach only, never other clients. Photos you already shared stay as they are; add them again if you want a sharper copy on your coach’s dashboard."
     }
+  },
+  {
+    "id": "weightclass-help-chat",
+    "date": "2026-11-28",
+    "roles": [
+      "coach",
+      "client"
+    ],
+    "title": "Help in Chat",
+    "body": {
+      "client": "If something in the app isn’t working, open Chat and go to WeightClass Help. Describe the problem and attach a screenshot if you can. We’ll pick it up and get it fixed quickly. — Percy, WeightClass HQ Manager",
+      "coach": "Clients can report an app problem in WeightClass Help, pinned at the top of their Chat. Those reports go to Autoprod, not to your client Chat. Training messages are unchanged."
+    }
   }
 ]
