@@ -1,5 +1,35 @@
 [
   {
+    "id": "autoprod-ad-videos",
+    "date": "2026-11-28",
+    "roles": [
+      "coach",
+      "client"
+    ],
+    "title": "New from Autoprod",
+    "body": {
+      "client": "New from Autoprod: see WeightClass HQ in 30 seconds.",
+      "coach": "New from Autoprod: see WeightClass HQ in 30 seconds."
+    },
+    "video": [
+      {
+        "src": "media/ad1-phone.mp4",
+        "poster": "media/ad1-phone.jpg",
+        "caption": "New from Autoprod: see WeightClass HQ in 30 seconds"
+      },
+      {
+        "src": "media/ad2-phone.mp4",
+        "poster": "media/ad2-phone.jpg",
+        "caption": "New from Autoprod: everything a coach needs, in one app"
+      },
+      {
+        "src": "media/ad3-phone.mp4",
+        "poster": "media/ad3-phone.jpg",
+        "caption": "New from Autoprod: your client logs a set, you see it straight away"
+      }
+    ]
+  },
+  {
     "id": "brand-kit-polish",
     "date": "2026-11-25",
     "roles": [
